@@ -35,7 +35,6 @@ services:
       - mysql
     command: mvn clean spring-boot:run -Dspring-boot.run.profiles=docker
     jsddsfljkl  hub
-	dsf
-    sdf
-	wubi hub
+sdjfkdsnkfljk  mac bixu 
+
     bixutianjiahub
