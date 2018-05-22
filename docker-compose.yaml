@@ -36,5 +36,7 @@ services:
     command: mvn clean spring-boot:run -Dspring-boot.run.profiles=docker
     jsddsfljkl  hub
 sdjfkdsnkfljk  mac bixu 
-
     bixutianjiahub
+    dskjfksldjf  hub bixu
+    
+    
