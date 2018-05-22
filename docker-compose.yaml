@@ -34,4 +34,5 @@ services:
       - nginx
       - mysql
     command: mvn clean spring-boot:run -Dspring-boot.run.profiles=docker
-    jsdklfjdsklfjljkl
+    jsdklfdsfljkl  hub
+    sdf
