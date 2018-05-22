@@ -34,8 +34,11 @@ services:
       - nginx
       - mysql
     command: mvn clean spring-boot:run -Dspring-boot.run.profiles=docker
-    jsddsfljkl  hub
+    jsddsfljkl  hub  
 	dsf
     sdf
 	wubi hub
     bixutianjiahub
+    dskjfksldjf  hub bixu
+    
+    
